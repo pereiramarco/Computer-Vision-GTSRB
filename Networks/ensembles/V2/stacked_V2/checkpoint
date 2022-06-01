@@ -1,0 +1,2 @@
+model_checkpoint_path: "StackedMassiveDataAug.ckpt"
+all_model_checkpoint_paths: "StackedMassiveDataAug.ckpt"
